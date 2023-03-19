@@ -1,1 +1,4 @@
-corrected update determination
+Backround updates:
+<ol>
+    <li>Will only download updates when Windows detected</li>
+</ol>
