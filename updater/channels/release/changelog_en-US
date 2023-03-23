@@ -1,1 +1,17 @@
-Online update test
+UI Updates:
+<ol>
+    <li>Added Settings page</li>
+    <li>Added light mode</li>
+    <li>Supported multiple languages (looking for other translations)</li>
+    <li>Supported online updates, please check at Settings page</li>
+    <li>Added andchanged some texts</li>
+</ol>
+Background Updates:
+<ol>
+    <li>Start adb server on start to reduce wait time</li>
+    <li>Not packing .github folder into app.asar anymore</li>
+    <li>Fixed CSS problem</li>
+    <li>Customized build method, please check eaf_builder.js</li>
+    <li>Check updates on start, please change update frequency at Settings page</li>
+    <li>Will only install updates automatically on Windows</li>
+</ol>
