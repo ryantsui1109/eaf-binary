@@ -1,4 +1,10 @@
-Backround updates:
+Background updates:
 <ol>
-    <li>New version of eaf_builder updating test</li>
+  <li>Removed npm run dist command</li>
+</ol>
+
+UI Updates:
+<ol>
+  <li>Disabled some user-select</li>
+  <li>Text improvement</li>
 </ol>
