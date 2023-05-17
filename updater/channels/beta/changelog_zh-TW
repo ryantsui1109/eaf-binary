@@ -1,10 +1,10 @@
 後台更新：
 <ol>
-  <li>移除 npm run dist 編譯方式</li>
+  <li>更新依賴</li>
+  <li>全面使用 preload.js</li>
 </ol>
 
 UI更新：
 <ol>
-  <li>禁用部分 user-select</li>
   <li>文字修正</li>
 </ol>

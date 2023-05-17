@@ -1,10 +1,10 @@
 Background updates:
 <ol>
-  <li>Removed npm run dist command</li>
+  <li>Updated depencies.</li>
+  <li>Using preload.js.</li>
 </ol>
 
 UI Updates:
 <ol>
-  <li>Disabled some user-select</li>
-  <li>Text improvement</li>
+  <li>Text message improvement.</li>
 </ol>
