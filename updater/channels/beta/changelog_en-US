@@ -1,10 +1,5 @@
 Background updates:
 <ol>
-  <li>Updated depencies.</li>
-  <li>Using preload.js.</li>
-</ol>
-
-UI Updates:
-<ol>
-  <li>Text message improvement.</li>
+  <li>Changed unzip library</li>
+  <li>Fixed wrong path of config files</li>
 </ol>
