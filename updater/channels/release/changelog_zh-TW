@@ -1,19 +1,17 @@
 UI更新：
 <ol>
-    <li>新增設定頁面</li>
-    <li>新增深淺色模式切換</li>
-    <li>新增多語言支援（征求其他語言的翻譯）</li>
-    <li>支援線上更新功能，請至設定分頁中查看</li>
-    <li>新增及修改部分文字提示</li>
+    <li>文字修正</li>
+    <li>部分 alert 移至 log</li>
+    <li>禁用部分 user-select</li>
+    <li>文字修正</li>
 </ol>
 後台更新：
 <ol>
-    <li>啟動時預先加載adb server以節省首次操作的時間</li>
-    <li>不再將.github資料夾包入app.asar中</li>
-    <li>修復了視窗大小造成的排版問題</li>
-    <li>客製化編譯的方法，欲自行編譯請使用 eaf_builder.js</li>
-    <li>啟動時檢查更新，欲更改檢查頻率，請至設定更改</li>
-    <li>僅限 Windows 下自動下載並安裝更新</li>
+    <li>更新依賴</li> 
+    <li>全面使用 preload.js</li>
+    <li>更換解壓縮器</li>
+    <li>修復無法找到檔案的問題</li>
+    <li>移除 npm run dist 編譯方式</li>
 </ol>
 
-居然有人來看了顯示不出來的更新說明
+

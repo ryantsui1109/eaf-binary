@@ -1,17 +1,15 @@
 UI Updates:
 <ol>
-    <li>Added Settings page</li>
-    <li>Added light mode</li>
-    <li>Supported multiple languages (looking for other translations)</li>
-    <li>Supported online updates, please check at Settings page</li>
-    <li>Added andchanged some texts</li>
+  <li>Text correction</li>
+  <li>Some alerts have been moved to log</li>
+  <li>Disabled some user-select</li>
+  <li>Text improvement</li>
 </ol>
-Background Updates:
+Background updates:
 <ol>
-    <li>Start adb server on start to reduce wait time</li>
-    <li>Not packing .github folder into app.asar anymore</li>
-    <li>Fixed CSS problem</li>
-    <li>Customized build method, please check eaf_builder.js</li>
-    <li>Check updates on start, please change update frequency at Settings page</li>
-    <li>Will only install updates automatically on Windows</li>
+  <li>Text message improvement.</li>
+  <li>Now using preload.js.</li>
+  <li>Changed unzip library</li>
+  <li>Fixed wrong path of config files</li>
+  <li>Removed npm run dist command</li>
 </ol>
