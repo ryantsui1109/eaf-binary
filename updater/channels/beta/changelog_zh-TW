@@ -3,3 +3,9 @@
   <li>更換解壓縮器</li>
   <li>修正錯誤的路徑</li>
 </ol>
+
+UI更新：
+<ol>
+  <li>文字修正</li>
+  <li>部分 alert 移至 log</li>
+</ol>

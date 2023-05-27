@@ -3,3 +3,8 @@ Background updates:
   <li>Changed unzip library</li>
   <li>Fixed wrong path of config files</li>
 </ol>
+UI updates: 
+<ol>
+  <li>Text correction</li>
+  <li>Some alerts moved to log</li>
+</ol>
