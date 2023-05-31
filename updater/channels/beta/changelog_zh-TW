@@ -1,11 +1,14 @@
 後台更新：
 <ol>
-  <li>更換解壓縮器</li>
-  <li>修正錯誤的路徑</li>
+<li>拆分語言資源，便於維護</li>
+<li>修復 fastboot update 無法執行的問題</li>
 </ol>
 
 UI更新：
 <ol>
-  <li>文字修正</li>
-  <li>部分 alert 移至 log</li>
+<li>新增 init_boot、bootloader、radio、vbmeta、metadata 選項</li>
+<li>修正錯誤的指令</li>
+<li>文字修正</li>
+<li>移除 fastboot oem unlock_critical 和 lock_critical</li>
+<li>更新依賴</li>
 </ol>

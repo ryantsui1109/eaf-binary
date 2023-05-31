@@ -1,10 +1,14 @@
 Background updates:
 <ol>
-  <li>Changed unzip library</li>
-  <li>Fixed wrong path of config files</li>
+<li>Seprated languages</li>
+<li>Fixed the problem that command "fastboot update" didn't excute</li>
 </ol>
-UI updates: 
+
+UI updates:
 <ol>
-  <li>Text correction</li>
-  <li>Some alerts moved to log</li>
+<li>Added init_boot, bootloader, radio, vbmeta and metadata options</li>
+<li>Fixed wrong command</li>
+<li>Text correction</li>
+<li>Removed fastboot oem unlock_critical and lock_critical commands</li>
+<li>Updated dependicies</li>
 </ol>
