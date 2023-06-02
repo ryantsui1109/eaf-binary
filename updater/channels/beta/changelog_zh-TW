@@ -1,14 +1,15 @@
 後台更新：
 <ol>
-<li>拆分語言資源，便於維護</li>
-<li>修復 fastboot update 無法執行的問題</li>
+<li>移除 tar.gz 編譯目標</li>
 </ol>
+
 
 UI更新：
 <ol>
-<li>新增 init_boot、bootloader、radio、vbmeta、metadata 選項</li>
-<li>修正錯誤的指令</li>
-<li>文字修正</li>
-<li>移除 fastboot oem unlock_critical 和 lock_critical</li>
-<li>更新依賴</li>
+<li>移除 fastboot flash cache 選項</li>
+<li>修正語言無法載入的問題</li>
+<li>移除側欄“裝置”</li>
+<li>新增"裝置"按鈕</li>
 </ol>
+
+

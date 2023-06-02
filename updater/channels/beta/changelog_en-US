@@ -1,14 +1,12 @@
 Background updates:
 <ol>
-<li>Seprated languages</li>
-<li>Fixed the problem that command "fastboot update" didn't excute</li>
+<li>Removed tar.gz build target</li>
 </ol>
 
 UI updates:
 <ol>
-<li>Added init_boot, bootloader, radio, vbmeta and metadata options</li>
-<li>Fixed wrong command</li>
-<li>Text correction</li>
-<li>Removed fastboot oem unlock_critical and lock_critical commands</li>
-<li>Updated dependicies</li>
+<li>Removed fastboot flash cache option</li>
+<li>Fixed the problem that the language wouldn't load</li>
+<li>Removed "Device" button from sidebar</li>
+<li>Added "Device" button</li>
 </ol>
