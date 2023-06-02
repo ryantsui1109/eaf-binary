@@ -1,15 +1,4 @@
 後台更新：
 <ol>
-<li>移除 tar.gz 編譯目標</li>
+<li>更換更新檔下載的位置</li>
 </ol>
-
-
-UI更新：
-<ol>
-<li>移除 fastboot flash cache 選項</li>
-<li>修正語言無法載入的問題</li>
-<li>移除側欄“裝置”</li>
-<li>新增"裝置"按鈕</li>
-</ol>
-
-

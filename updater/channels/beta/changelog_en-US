@@ -1,12 +1,4 @@
 Background updates:
 <ol>
-<li>Removed tar.gz build target</li>
-</ol>
-
-UI updates:
-<ol>
-<li>Removed fastboot flash cache option</li>
-<li>Fixed the problem that the language wouldn't load</li>
-<li>Removed "Device" button from sidebar</li>
-<li>Added "Device" button</li>
+<li>Changed the location where update file stored</li>
 </ol>
