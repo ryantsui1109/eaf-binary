@@ -1,4 +1,9 @@
-Background updates:
+Background Updates: 
 <ol>
-<li>Changed the location where update file stored</li>
+<li>Catching adb logs from stdout.</li>
+</ol>
+
+UI Updates：
+<ol>
+<li>Tiny changes.</li>
 </ol>
