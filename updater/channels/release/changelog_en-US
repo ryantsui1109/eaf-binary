@@ -1,15 +1,24 @@
 UI Updates:
 <ol>
-  <li>Text correction</li>
-  <li>Some alerts have been moved to log</li>
-  <li>Disabled some user-select</li>
-  <li>Text improvement</li>
+  <li>Tiny changes in UI.</li>
+  <li>
+    Removed <span class="font-monospace">fastboot flash cache</span> command
+  </li>
+  <li>Moved "Device" button to control bar.</li>
+  <li>Added init_boot, bootloader, radio, vbmeta and metadata options.</li>
+  <li>Corrected commands</li>
+  <li>Text improvement.</li>
+  <li>
+    Removed <span class="font-monospace">fastboot oem unlock_critical</span>and
+    <span class="font-monospace">lock_critical</span>.
+  </li>
+  <li>Updated dependencies.</li>
 </ol>
 Background updates:
 <ol>
-  <li>Text message improvement.</li>
-  <li>Now using preload.js.</li>
-  <li>Changed unzip library</li>
-  <li>Fixed wrong path of config files</li>
-  <li>Removed npm run dist command</li>
+  <li>Catch ADB logs by stdout instead of stderr.</li>
+  <li>Changed the location where update file stores.</li>
+  <li>Removed <span class="font-monospace">tar.gz</span> build target.</li>
+  <li>Seprated language files.</li>
+  <li>Fixed the problem that<span class="font-monospace">fastboot update</span>malfunctions</li>
 </ol>
